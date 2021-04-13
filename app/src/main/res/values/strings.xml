@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">l2z2</string>
+    <string-array name="words">
+        <item>cucumber</item>
+        <item>playstation</item>
+        <item>carrot</item>
+        <item>vegetable</item>
+        <item>fruit</item>
+        <item>potato</item>
+        <item>hospital</item>
+        <item>sempiternal</item>
+        <item>tear</item>
+    </string-array>
+</resources>
